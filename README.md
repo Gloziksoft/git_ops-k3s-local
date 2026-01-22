@@ -1,4 +1,4 @@
-# git_ops-k3s-local
+# git_ops-k3s-monitoring
 
 ## Purpose
 Local / lab GitOps repository for **k3s (Kubernetes)**.
